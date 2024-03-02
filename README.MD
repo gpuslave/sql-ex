@@ -1,0 +1,2 @@
+# SQL-EX practice
+* SELECTs
